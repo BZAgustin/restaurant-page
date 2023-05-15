@@ -58,6 +58,7 @@ header ul {
   flex-direction: row;
   gap: 12px;
   list-style-type: none;
+  user-select: none;
 }
 
 header ul img {
