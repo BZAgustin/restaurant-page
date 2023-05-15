@@ -53,10 +53,6 @@ header {
   height: 4rem;
 }
 
-header > img {
-  filter: drop-shadow(0px 0px 1px white);
-}
-
 header ul {
   display: flex;
   flex-direction: row;
@@ -65,6 +61,7 @@ header ul {
 }
 
 header ul img {
+  filter: drop-shadow(0px 0px 1px white);
   width: 24px;
   height: 24px;
   margin-bottom: 6px;
