@@ -7,7 +7,7 @@ const menu = [{
 }, {
   imgUrl: './assets/menu/beef-wellington.jpg',
   name: 'Beef Wellington',
-  description: 'Beef tenderloin seared and wrapped in puff pastry with a mixture of mushrooms, shallots, and herbs. Served with mashed potatoes and roasted carrots.',
+  description: 'Beef tenderloin seared and wrapped in puff pastry with a mixture of mushrooms, shallots, and herbs.',
   price: 50,
   side: 'right',
 }, {
